@@ -1,3 +1,4 @@
-# MyNotes
+# My Notes
 
-归档一下笔记
+## Physics
+## Mathematics
